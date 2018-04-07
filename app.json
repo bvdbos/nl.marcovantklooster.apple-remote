@@ -1,0 +1,24 @@
+{
+  "id": "nl.marcovantklooster.apple-remote",
+  "version": "1.0.0",
+  "compatibility": ">=1.5.0",
+  "sdk": 2,
+  "name": {
+    "en": "Apple Remote"
+  },
+  "description": {
+    "en": "Control your Apple TV by this remote"
+  },
+  "category": [
+    "appliances"
+  ],
+  "permissions": [],
+  "images": {
+    "large": "/assets/images/large.png",
+    "small": "/assets/images/small.png"
+  },
+  "author": {
+    "name": "Marco van 't Klooster",
+    "email": "info@marcovantklooster.nl"
+  }
+}
